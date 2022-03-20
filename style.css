@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+body {
+    background: #5448C7;
+    min-height: 100%
+} 
+.fill-height {
+    height: 100%;
+}
+h1 {
+    font-size: 95px;
+    font-family: 'Roboto';
+    font-weight: 300px;
+    margin-top: 40px;
+    
+}
+/* .container {
+    background:white;
+    width:auto;
+    height:auto;
+} */
+
